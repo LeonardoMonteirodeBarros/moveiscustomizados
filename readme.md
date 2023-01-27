@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Móveis customizados é um app para ajudar a encontrar os melhores móveis do mercado.
 
-- [visite o projeto online](https://leonardomonteirodebarros.github.io/meuprojeto01)
+- [visite o projeto online](https://leonardomonteirodebarros.github.io/moveiscustomizados)
 
 
 
